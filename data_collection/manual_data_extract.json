@@ -1,0 +1,454 @@
+{
+    "pages": [
+      {
+        "url": "https://jiopay.com/business",
+        "title": "JioPay Business",
+        "content": [
+          {
+            "section": "Home Page",
+            "text": "Digital payment acceptance made easy, by JioPay. JioPay is the Safest, Smartest and Quickest way to accept payments from your customers. Explore Products"
+          },
+          {
+            "section": "Stats",
+            "text": "2 Million+ API requests per day\n100K+ Merchants trust us\n300 Million+ Transactions processed\n100+ Payment methods supported"
+          },
+          {
+            "section": "Our Products",
+            "text": "Our platform with its suite of fully integrated products enables you to accept payments seamlessly from your users, be it on websites or in-store."
+          },
+          {
+            "section": "Payment Gateway",
+            "text": "Collect payments online on your own custom website or through tailored links and pages. Safe and secure transactions. Popular payment modes. Optimized for web and mobile. Increase conversion."
+          },
+          {
+            "section": "Point Of Sale",
+            "text": "A smart terminal to accept in-store payments from multiple payment modes including Cards and UPI. Accept payments. Generate UPI QRs. Design campaigns. Critical insights."
+          },
+          {
+            "section": "UPI Hub",
+            "text": "A comprehensive platform that lets you collect payments using the versatile UPI as a payment method. Accept payments. Generate UPI QRs. 1 QR. Payment links."
+          },
+          {
+            "section": "Biller Center",
+            "text": "A platform that enables payment acceptance for recharges and bill payments of service providers. Collect payments. Easy Operations. Superior Reach. Send payment links."
+          },
+          {
+            "section": "JioPay Business App",
+            "text": "Simple, instant UPI payments from your customers. Offline Payments. Auto Reconciliation & Settlement. 1 QR. Transaction Summary."
+          },
+          {
+            "section": "Why JioPay?",
+            "text": "We are obsessed with technology and use it extensively to solve the payments needs of your business."
+          },
+          {
+            "section": "Why JioPay - Versatile",
+            "text": "Multiple feature launches, optimizations and improvements through the year to ensure you are always ahead of the curve."
+          },
+          {
+            "section": "Why JioPay - Comprehensive",
+            "text": "Reduce your operational expenses using our fully managed platform that is designed for Security, Reliability and Scale."
+          },
+          {
+            "section": "Why JioPay - Compliant",
+            "text": "JioPay meets the highest standards to meet compliance needs and reassure your decision to choose us."
+          },
+          {
+            "section": "Why JioPay - Robust",
+            "text": "Our integration with multiple institutions ensures the best fail-safe to deliver superior success rates and uptime."
+          },
+          {
+            "section": "Contact Information",
+            "text": "Jio Payment Solutions Limited (formerly known as Reliance Payment Solutions Limited)\nRegistered Address: 5th Floor, Court House, Lokmanya Tilak Marg, Dhobi Talao, Mumbai - 400 002, India\nCorporate Address: 2nd Floor B Wing, Building 25, Dhirubhai Ambani Knowledge City, Kopar Khairane, Navi Mumbai –400 710, India"
+          }
+        ]
+      },
+      {
+        "url": "https://jiopay.com/business/jio-pay-business",
+        "title": "JioPay Business App",
+        "content": [
+          {
+            "section": "Overview",
+            "text": "JIOPAY BUSINESS APP - Simple, instant UPI payments from your customers. Start accepting UPI payments from your customers instantly irrespective of which UPI app they use."
+          },
+          {
+            "section": "Key Features",
+            "text": "Quick sign-up using mobile number & bank account. Generate/Download your QR code. Ask customer to scan the QR and accept payment from any UPI app. Accept payment from all UPI apps."
+          },
+          {
+            "section": "Quick Sign-up",
+            "text": "Instant 2-step process for quick onboarding."
+          },
+          {
+            "section": "Offline Payments",
+            "text": "Download UPI QR code to accept payments when you’re offline."
+          },
+          {
+            "section": "Omnichannel Payments",
+            "text": "Accept payments from users walking into the store and home-delivery orders."
+          },
+          {
+            "section": "Auto Reconciliation & Settlement",
+            "text": "Get the money instantly credited to your linked bank account."
+          },
+          {
+            "section": "Transaction Summary",
+            "text": "View summary of all transactions."
+          },
+          {
+            "section": "All-in-One QR",
+            "text": "Accept UPI, Cards, Netbanking, Wallets, Pay Later & Sodexo (Coming Soon)."
+          },
+          {
+            "section": "Payment Convenience",
+            "text": "Quick & simple way to accept UPI payments. Download the app from Google Playstore and start accepting payments."
+          },
+          {
+            "section": "Offline or Online Payments",
+            "text": "Download the UPI QR code on your phone for offline payment acceptance or instantly generate the dynamic QR in-app for customers to scan and make payments."
+          },
+          {
+            "section": "Quick Reconciliation",
+            "text": "Browse through the transaction history & settlement history to understand your daily sales and settlement."
+          }
+        ]
+      },
+      {
+        "url": "https://jiopay.com/business/about-us",
+        "title": "About Us - JioPay",
+        "content": [
+          {
+            "section": "About Us",
+            "text": "JioPay was created with the sole intention of creating a product that could revolutionize payments, facilitate quick and simple transactions without having a complex integration process for our users - the merchants of India. JioPay offers simple, self-service products for merchants and businesses of all sizes to accept payments online from their customers."
+          },
+          {
+            "section": "Business Focus",
+            "text": "JioPay products are tailor-made to the business needs of merchants in Bharat. With JioPay, merchants can accept payments from all digital modes including Cards of all types, UPI, Netbanking, Wallets and Bill Now, Pay Later among others."
+          },
+          {
+            "section": "Contact Us",
+            "text": "Want to better your checkout experience? Contact Us. Required fields: First Name, Last Name, Work Email Address, Mobile Number, Company Website, Daily Transaction Value in INR. By completing this form, I have read and acknowledged the Privacy Policy and agree that JioPay may contact me at the email address or phone number above."
+          },
+          {
+            "section": "Contact Information",
+            "text": "Jio Payment Solutions Limited (formerly known as Reliance Payment Solutions Limited)\nRegistered Address: 5th Floor, Court House, Lokmanya Tilak Marg, Dhobi Talao, Mumbai - 400 002, India\nCorporate Address: 2nd Floor B Wing, Building 25, Dhirubhai Ambani Knowledge City, Kopar Khairane, Navi Mumbai –400 710, India"
+          }
+        ]
+      },
+      {
+        "url": "https://jiopay.com/business/complaint-resolution-escalation-matrix",
+        "title": "Complaint Resolution and Escalation Matrix - JioPay",
+        "content": [
+          {
+            "section": "Complaint Resolution and Escalation Matrix",
+            "text": "Level 1: Customers can lodge their queries, requests, complaints, and feedback at care@jiopay.in. All queries, requests, complaints, and feedback received from the customers will be attended promptly and in any case within 10 working days from the date of receipt."
+          },
+          {
+            "section": "Level 2 Escalation",
+            "text": "In case of non-redressal of complaint within the specified time period or unsatisfactory resolution at Level 1, customers can escalate the matter to Ms. Kausar Hasan (Nodal Officer) by sending an email at nodal.officer@jiopay.in. Nodal Officer will get back to the customer within 10 working days from the date of escalation."
+          },
+          {
+            "section": "Level 3 Escalation",
+            "text": "If the customer is not satisfied with the resolution provided or the customer does not receive any resolution within one month from the date of complaint, the customer can approach the ‘Ombudsman for Digital Transactions’ for an independent review. The details of and the procedure for filing a complaint with the ‘Ombudsman for Digital Transactions’ are available at https://rbidocs.rbi.org.in/rdocs/Content/PDFs/OSDT31012019.pdf"
+          },
+          {
+            "section": "More Information",
+            "text": "For more details on Complaint Resolution and Escalation Matrix, kindly refer to our Grievance Redressal Policy at https://jiopay.in/docs/Grievance/Grievance-Redressal-Policy.pdf"
+          }
+        ]
+      },
+
+      {
+        "url": "https://jiopay.com/business/paymentgateway",
+        "title": "Payment Gateway - JioPay",
+        "content": [
+          {
+            "section": "Payment Gateway Overview",
+            "text": "JioPay is the most effective and efficient platform to accept internet payments in India. With state-of-the-art infrastructure, class-leading risk and fraud engines, and a plethora of options, accepting payments has never been this simple!"
+          },
+          {
+            "section": "Key Features",
+            "text": "100+ Payment Methods Supported"
+          },
+          {
+            "section": "JioPay Payment Gateway Products",
+            "text": "Direct: Get paid by your users anytime and anywhere.\nCheckout: Offer mobile-first payment experience for superior experience.\nVault: Tokenise cards compliantly for seamless transactions in the future.\nCollect: Create digital payment links after fulfilment.\nRepeat: Bill users automatically on a recurring basis.\nCampaign: Run campaigns on the payment methods that your users have.\nConsole: Exercise complete control over your business.\n1 QR: Display QRs online or in-store to collect payments from users."
+          },
+          {
+            "section": "JioPay Business App",
+            "text": "Start accepting UPI payments from your customers instantly irrespective of which UPI app they use."
+          },
+          {
+            "section": "Developer Centric Product",
+            "text": "Integrating with JioPay lets you offer your users multiple ways to pay – and we’re adding more frequently. Build and test with Jio Pay on sandbox. When you’re done, start collecting user payments instantly."
+          },
+          {
+            "section": "Why Use JioPay?",
+            "text": "Increase conversions: Better your sales and retention with our carefully crafted checkout experience.\nWiden your presence: Reach millions of unique users across different parts of the country.\nMitigate risk & secure data: Prevent fraudulent transactions while processing genuine orders.\nOmnichannel experience: Create unique experiences that are specific to your product."
+          },
+          {
+            "section": "Business Solutions",
+            "text": "Jio Pay has the ideal solution for your business needs. Our innovation at scale, experience, and immense understanding of the Indian market can do wonders for your business. Be it marketplace payments, subscription payments, or on-demand payments on the go, we help deliver the best experience for your users."
+          },
+          {
+            "section": "Capabilities",
+            "text": "Process User Payments\nFraud & Risk Protection\nReconciliation & Settlement\nAccess Business Insights\nComprehensive Support\nOnboard for Payments\nSupport for Integration"
+          },
+          {
+            "section": "Statistics",
+            "text": "300 Million+ Transactions processed\n100K+ Unique merchants\n7 Million+ Cards tokenized"
+          }
+        ]
+      },
+      
+      {
+        "url": "https://jiopay.com/business/pointofsale",
+        "title": "Point of Sale - JioPay",
+        "content": [
+          {
+            "section": "Overview",
+            "text": "The smartest way to accept in-person payments. Accept payments seamlessly from any payment method, online or in-store, using modern smart devices integrated with state-of-the-art software and infrastructure."
+          },
+          {
+            "section": "Key Features",
+            "text": "Accept payments: Accept payments from any payment method.\nSend payment links: Collect payments online after service fulfilment.\nDesign campaigns: Run offers and convert footfalls to purchases.\nGenerate UPI QRs: Generate QRs specific to a transaction instantly.\nCritical insights: We convert your data to information for you to act.\nSimplify payment operations: One view for payments, online or in-store."
+          },
+          {
+            "section": "JioPay 1QR",
+            "text": "Choose a QR product from the comprehensive suite of solutions that JioPay offers. Deploy a static QR or generate one for each transaction for either in-store or after-delivery to collect payments from your users. You can also opt to deploy the JioPay digital standee to add that additional zing to your store."
+          }
+        ]
+      },
+      {
+        "url": "https://jiopay.com/business/paymentgateway/1qr",
+        "title": "1 QR - JioPay",
+        "content": [
+          {
+            "section": "Overview",
+            "text": "Sell. Display. Get Paid. Run diverse offers and increase engagement using a single QR solution for all digital payments."
+          },
+          {
+            "section": "Statistics",
+            "text": "300 Million+ Transactions processed\n100K+ Unique merchants\n7 Million+ Cards tokenized"
+          },
+          {
+            "section": "Advantage",
+            "text": "Collect payment digitally after service fulfilment, reconcile automatically, and accept digital payments with little or no development."
+          },
+          {
+            "section": "Ideal For",
+            "text": "Businesses who want to digitise COD and merchants who want to allow QR payments with automatic reconciliation from all UPI apps."
+          },
+          {
+            "section": "Key Features",
+            "text": "Versatile QR solutions: Omnichannel capabilities.\nSmart reconciliation: Grow business exponentially.\nSmart Collection: Leverage 1 QR to enable collection from diverse payment methods with a single QR.\nEasy Reconciliation: Simplify your operations with automatic reconciliation via dynamic QRs."
+          },
+          {
+            "section": "Increase Business",
+            "text": "Unbox the JioPay suite of UPI products for smart and easy collection."
+          }
+        ]
+      },
+      
+      {
+        "url": "https://jiopay.com/business/biller",
+        "title": "Biller Center - JioPay",
+        "content": [
+          {
+            "section": "Overview",
+            "text": "Collect payments seamlessly from your users for your entity using JioPay Biller Center."
+          },
+          {
+            "section": "Key Features",
+            "text": "Collect payments: Collect payments from users as a biller organization.\nSuperior Reach: Reach multiple user personas across the country.\nEasy Operations: Collect payments digitally and reconcile automatically.\nSend payment links: Collect online on-time via a secure Payment Gateway."
+          },
+          {
+            "section": "Collect Across Bharat",
+            "text": "JioPay Biller Center helps you connect to BBPS, making payment collection across the country easy and effortless."
+          }
+        ]
+      },
+
+      {
+        "url": "https://jiopay.com/business/privacy-policy",
+        "title": "Privacy Policy - JioPay",
+        "content": [
+          {
+            "section": "Preamble",
+            "text": "Jio Payment Solutions Limited (JPSL) is committed to protecting your privacy. This policy describes how JPSL collects, uses, shares, and safeguards your Personal Information. It is governed by Indian laws, including the Information Technology Act, 2000."
+          },
+          {
+            "section": "Consent",
+            "text": "By using JPSL's services or accessing its platform, you consent to the processing of your Personal Information according to this Privacy Policy. JPSL reserves the right to amend this policy periodically."
+          },
+          {
+            "section": "Applicability",
+            "text": "This policy applies to Personal Information collected by JPSL directly or through its affiliates, partners, or third-party service providers."
+          },
+          {
+            "section": "Personal Information",
+            "text": "JPSL collects Personal Information such as name, contact details, IP address, device information, financial information, and biometric data. Any publicly posted content is not considered Personal Information."
+          },
+          {
+            "section": "Use of Personal Information",
+            "text": "JPSL uses Personal Information for identity verification, product provisioning, transaction processing, communication, analytics, fraud prevention, legal compliance, and other associated purposes."
+          },
+          {
+            "section": "Disclosure",
+            "text": "JPSL does not disclose Personal Information except with consent, legal requirements, or for operational purposes. Information may be shared with affiliates, vendors, and regulatory authorities."
+          },
+          {
+            "section": "Information Security and Storage",
+            "text": "JPSL maintains stringent security practices to protect Personal Information. Information is stored only as long as necessary for business or legal requirements. JPSL is not responsible for breaches outside its control."
+          },
+          {
+            "section": "Third-Party Websites",
+            "text": "JPSL's platform may include links to third-party sites with their own privacy policies, which are beyond JPSL's control."
+          },
+          {
+            "section": "Access, Correction, and Withdrawal",
+            "text": "Users can request corrections or withdraw consent by contacting the grievance officer."
+          },
+          {
+            "section": "Queries and Complaints",
+            "text": "For queries or complaints about Personal Information processing, contact JPSL at care@jiopay.in."
+          }
+        ]
+      },
+      {
+        "url": "https://jiopay.com/business/terms-conditions",
+        "title": "Merchant Terms & Conditions",
+        "content": [
+          {
+            "section": "Introduction",
+            "text": "Please read the terms & conditions mentioned hereunder carefully before availing or registering for any of the JPSL services/availing Payment Mechanism services. By signing the Merchant Acquisition Form, and/or by digitally accepting these terms and conditions, and/or through any other method as may be introduced by JPSL on the Merchant Partner Platform for accepting these terms & conditions, and/or by using/availing the Payment Mechanism and/or by downloading/accessing/using the Platform, the Merchant Partner agrees to these terms and conditions and shall be bound by the same. The acceptance of these terms and conditions shall be unconditional and without any limitation or qualification."
+          },
+          {
+            "section": "Definitions and Interpretation",
+            "text": "In the Agreement, (i) capitalised terms defined by inclusion in quotations and/or parenthesis have the meanings so ascribed; and (ii) the following terms shall have the meanings assigned to them herein below: 'Agreement' shall mean these terms and conditions; 'Acquiring Bank' or 'Acquirer' shall mean banks, financial institutions, payment networks and payment system providers licensed under the Payments and Settlement Systems Act 2007 to acquire, authorise and authenticate the online payment transaction; 'Applicable Law' or 'applicable law' shall mean the applicable laws and regulations of India which is including but not limited to rules, guidelines, regulations, notifications and instructions issued by Reserve Bank of India ('RBI') and/or NPCI and/or any other applicable legal/regulatory authority; 'Consumer' shall mean consumer who holds the valid Payment Instrument and makes payment for purchasing the Products from the Merchant Partner utilising the Payment Instrument using the Payment Mechanism through the Merchant Partner Platform; 'Grievance Redressal Policy' shall mean such dispute resolution mechanism which may be notified by JPSL to the Merchant Partner from time to time; 'EMI' shall mean monthly instalment payment plan provided by the Payment Service provider to the Consumer; 'Escrow Account' shall mean the escrow account maintained by JPSL with a scheduled commercial bank in accordance with the Payment and Settlement System Act, 2007 and the guidelines issued thereunder; 'Merchant Partner Account' shall be the account maintained by JPSL at its end to enable JPSL to accept and/or settle payments received from the Consumer; 'Merchant Partner Application Form'/ 'MAF' shall mean the form to be completed by the Merchant Partner and submitted along with necessary supporting documents, either online on Platform or physically to designated and authorized agents of JPSL; 'Merchant Partner Platform' shall mean all platforms declared by the Merchant Partner on which the Consumer makes payment using the Payment Instrument through the Payment Mechanism to the Merchant Partner for purchasing the Products from the Merchant Partner which is including but not limited to : (i) Merchant Partner’s website, (ii) retail outlets/physical stores of Merchant Partner (through POS or otherwise); (iii) Merchant Partner’s mobile application; and (iv) servers/backend servers/websites of a Merchant Partner used for authentication of Transactions undertaken through Platform or any payment instruments processed by JPSL for payment to such Merchant Partner (v) any other platform designated by Merchant Partner and approved by JPSL; 'Platform' or 'JPSL Platform' shall mean www.jiopay.in and includes the corresponding website, mobile app, and/or any other platform of JPSL including website, mobile app and any other platform designated by JPSL; 'Payment Mechanism' shall mean the processing and facilitation of online payments by JPSL with the help of the services of Payment Service Providers through the internet utilising the internet banking facility, payment gateway, electronic commerce, and through other modes and methods approved and intimated by JPSL from time to time; 'Payment Service Provider' shall mean and include any payment gateways, Acquiring Banks, Financial Institutions, card schemes, issuing bank/institution, payment instrument provider, software providers, food card/meal card providers, collection agents/EMI scheme providers as well as third party service provider that participate in authorisation/authentication/facilitation of the online payments. These Payment Service Providers allow JPSL to use the internet payment gateways/payment facility developed by them to process all type of payment instruments and transactions initiated by the Consumer online on Merchant Partner Platform. The Payment Service Provider shall also include bank and non-banking financial institutes or any other financial company other than Acquiring Banks, card schemes, and payment instrument providers that are authorised to issue a valid Payment Instruments and/or to participate as facilitator of an online transaction; 'Payment Bank' or 'Bank' shall mean Jio Payments Bank Ltd; 'Payment Instruments' shall mean valid payment instruments issued by the Payment Service Provider which enables the Consumer to initiate and complete the transaction to purchase/avail Products of the Merchant Partner; 'Point of Sale device' or 'POS' means a secure device with an alphanumeric keyboard and through which the Consumer can enter their PIN/swipe/use pre-paid instrument, cards and other approved mode/Payment Instruments and make payments; 'Products' shall mean the products and/or services of Merchant Partner purchased/availed by the Consumer and the payment for which is made by the Consumer using the Payment Instrument through the Payment Mechanism on the Merchant Partner Platform; 'JPSL' shall mean Jio Payment Solutions Limited (formerly known as Reliance Payment Solutions Limited), a company incorporated under the laws of India and having its registered office at 5th Floor, Court House, Lokmanya Tilak Marg, Dhobi Talao, Mumbai – 400 002; 'JPSL Polices' shall mean all policies of JPSL, including Merchant Onboarding and KYC-AML Policy, Merchant Settlement & Reconciliation Process, Grievance Redressal Policy, Privacy Policy, etc. published on the Platform (www.jiopay.in) and/or communicated to the Merchant Partner from time to time; 'Settlement Account' shall mean the settlement account of the Merchant Partner identified in the MAF to which the proceeds of the Transactions processed on behalf of the Merchant Partner are to be credited as per the records of the Merchant Partner Account from the Escrow Account. JPSL may change the settlement account of the Merchant Partner in its records on the request of the Merchant Partner; and 'Transactions' shall mean payment transaction made by the Consumer utilising the Payment Instrument through Payment Mechanism at the Merchant Partner Platform for purchasing/availing the Products. 'VoiceBox' means a smart device that will act as a part of the POS machine providing audio transaction updates to the Entity. This device will come with network connectivity through a SIM card and will have a speaker. Once the Consumer makes the payment by scanning the QR code through Merchant Partner Platform, the VoiceBox will notify the Merchant Partner that the payment is completed successfully. Whenever the Merchant Partner accepts the payment by scanning (Static) QR code through POS Machine, the VoiceBox will notify the Merchant Partner that the payment is completed successfully by announcing the amount loudly on a successful transaction; 'SIM Card' or 'Card' shall mean Subscriber Identification Module Smart Card, for use with the VoiceBox to enable access to the network in order to avail of the services."
+          },
+          {
+            "section": "Scope of the Agreement",
+            "text": "JPSL has agreed to provide and the Merchant Partner has agreed to avail Payment Mechanism services on nonexclusive basis on the terms and conditions of this Agreement."
+          },
+          {
+            "section": "Merchant Partner Account Registration and Other Obligations",
+            "text": "JPSL has availed facilities of Payment Service Providers which includes but is not limited to payment gateway services, net banking services, collection services, EMI facility services, net banking facilities, card payments, food/meal card payment services and electronic software distribution services and also provides authorisation and settlement facilities in respect of payments initiated by the Consumers at the Merchant Partner Platform. JPSL is also in the business of bill payment/presentment and accepting the instructions from the Consumers for making payments using the Payment Instruments to the Merchant Partner. The Merchant Partner agrees and understands that JPSL provides payment aggregation and facilitation services to the Merchant Partner for accepting the Payment Instruments from Consumers for completing the transaction of purchasing/availing the Products. The Payment Mechanism of JPSL shall be subject to the RBI regulations/Applicable Laws. JPSL shall also provide the payment gateway services, bill presentment and settlement under Bharat Bill Payment System (BBPS) and/or any other services through the Payment Mechanism as may be approved by JPSL for the Merchant Partner subject to the terms and conditions of this Agreement."
+          },
+          {
+            "section": "Suspension or Termination by JPSL",
+            "text": "Either Party may terminate this Agreement by giving 30 (thirty) days’ notice to the other Party in writing without assigning any reason. JPSL reserves the right to cease to provide Payment Mechanism and/or suspend the Payment Mechanism/Agreement and/or close the Merchant Partner Account, without giving any notice to Merchant Partner at its own option and/or as per the instructions of the Payment Service Providers (a) if the Merchant Partner has breached the terms of this Agreement or applicable laws or any payment network rules; (b) Merchant Partner’s failure or neglect to use the Payment Mechanism or Merchant Partner Account for a continuous period of 180 (one hundred eighty) days; (c) any person other than the Merchant Partner is attempting to access the Merchant Partner Account or attempts to hack the same; (d) if some person presents identical commercial credentials in attempts to open another Merchant Partner Account; (e) if JPSL is mandated to do so by the relevant regulators or to the extent the same is required to be done by reason of any payment network rules; (f) any Transaction with the Merchant Partner is for any reason unlawful, or unenforceable; (g) the transaction is suspicious/fraudulent; (h) if the Payment Service Provide asks for such suspension/termination etc."
+          },
+          {
+            "section": "Refunds and Dispute/Chargeback",
+            "text": "Refund can be processed on Merchant Partner request with reference to original Transaction. On request of Merchant Partner JPSL shall process the refund of said amount which shall not exceed the original Transaction amount at any given point in time. JPSL shall recover the said amount from Merchant Partner’s settlement or any other payables under this Agreement. The said amount shall be credited to Consumer’s account from which the transition was initiated. If Consumer approaches JPSL for refund and/or cancellation of the Transaction, JPSL shall request the Merchant Partner to confirm as to if such Transaction amount can be refunded. On Merchant Partner’s instructions JPSL will process or reject the refund for the Transaction. For processing refund, the process suggested in Clause 14.1.a here above shall apply."
+          }
+        ]
+      },
+      {
+        "url": "https://jiopay.com/business/on-boarding-and-kyc-policy",
+        "title": "Merchant Onboarding and KYC-AML Policy - JioPay",
+        "content": [
+          {
+            "section": "Overview",
+            "text": "Jio Payment Solutions Limited (formerly Reliance Payment Solutions Limited) facilitates a fast and frictionless merchant signup process. JPSL complies with the Prevention of Money Laundering Act, 2002, RBI's Anti-Money Laundering (AML), Combatting the Financing of Terrorism (CFT), and Know Your Customer (KYC) guidelines."
+          },
+          {
+            "section": "Onboarding Process",
+            "text": "The onboarding journey begins when a merchant expresses interest in JPSL solutions and continues beyond account activation with periodic updates and continuous due diligence."
+          },
+          {
+            "section": "Merchant Registration",
+            "text": "Merchants can start registration by downloading and signing the JPSL Merchant Acquisition Form. Existing merchants can expand Jiopay integration by using the Supplementary Acquisition Form. For more details, merchants can contact merchant.support@jiopay.in."
+          },
+          {
+            "section": "Prohibited Businesses",
+            "text": "JPSL does not offer payment processing for certain prohibited business categories. Merchants must verify that their business is not on the prohibited list before proceeding."
+          },
+          {
+            "section": "Document Submission",
+            "text": "Merchants must complete an online signup and upload required KYC documents to complete registration. Detailed document lists for Sole Proprietorship and Entities are provided on the platform."
+          },
+          {
+            "section": "Annexures",
+            "subsections": [
+              {
+                "title": "Annexure I: Form (ANX-A)",
+                "text": "Declaration form for cases where the owner's name or business name is not mentioned on the proof of business."
+              },
+              {
+                "title": "Annexure II: Form (ANX-B)",
+                "text": "Declaration form for cases of a mismatch in the date of birth."
+              },
+              {
+                "title": "Annexure III: Form (ANX-C)",
+                "text": "Declaration form for cases where GST is unavailable."
+              }
+            ]
+          }
+        ]
+      },
+      
+      {
+        "url": "https://jiopay.com/business/terms-conditions",
+        "title": "Billpay Terms & Conditions",
+        "content": [
+          {
+            "section": "Introduction",
+            "text": "Please read these Terms (defined below) carefully before becoming an Agent (defined below). These Terms and the Privacy Policy (defined below) together constitute a legal agreement between the Agent (defined below) and Agent Institution (defined below) in connection with use of the Platform by the Agent. These Terms are entered into between the Agent (defined below) and Jio Payment Solutions Limited (the “Agent Institution”) for acting as the customer touch points and service points which will be available in the form of branch offices, collection centres, business correspondents and outlets and accessing, registering, and interacting with the Agent Institution’s website, mobile application, modules, modules in a mobile application or website and any other such technological platform(s) owned and operated by the Agent Institution (“Platform”). This Terms is an electronic record published in accordance with the provisions of the Information Technology Act, 2000 and rules made thereunder as applicable and the amended provisions pertaining to electronic records in various statutes as may be amended by the Information Technology Act, 2000 from time to time. This Terms is generated by a computer system and does not require any physical or digital signatures. The Agent’s access of the Platform signifies their acceptance of these Terms. The Agent Institution reserves the right to modify these Terms at any time without notice to the Agent, and their continued access of the Terms after any modifications will constitute their acceptance of such modifications."
+          },
+          {
+            "section": "Definitions",
+            "text": "Affiliate shall mean any of the holding, subsidiary, group, affiliate company and shall include any company controlled by or under its common control directly or indirectly. “Agent” refers to persons/entities acting as customer touch points and service points in the form of branch offices, collection centers and outlets for the collection of bill payments through various modes. Agents may be on-boarded either directly by a BBPOU or by Agent Institutions. Agents on-boarded by Agent Institutions are also referred to as Sub-agents. “Agent Institution” refers to institutions who are onboarded by which may further on-board digital channels or Agents and/ or set up customer service points in various regions and locations. “Applicable Laws” shall mean all laws, statutes, codes, ordinances, decrees, rules, regulations, by-laws, published policies and guidelines, judicial or arbitral or regulatory judgments, orders, decisions, rulings or awards, including RBI Guidelines as may be issued from time to time. “BBPCU” or “Bharat BillPay Central Unit” shall mean NBBL or NPCI BHARAT BILLPAY LIMITED, a company incorporated in India under the Companies Act, 2013 and having its registered office at 1001A, B wing, 10th Floor, The Capital, Bandra-Kurla Complex, Bandra (East), Mumbai – 400 051, India. “BBPOU” or “Bharat BillPay Operating Unit” shall mean Jio Payments Bank Ltd (including its successors and assigns) having its registered office at Jio Payments Bank Ltd, 3rd Floor, Maker Chambers IV, 222, Nariman Point, Mumbai 400021 who has been authorized by RBI to function as operational unit under BBPS. BBPS refers to Bharat Bill Payment System. Billers shall mean government agencies, statutory bodies, body corporates, charities and other entities that collect bill payments onboarded by BBPOU. Bill Payment Services shall mean the bill payment services through the Platform to pay utility bills for multiple use cases such as electricity, post-paid mobile bills, DTH recharge, etc. “Customer” shall mean any person who desires to pay for Bill Payment Services through the Agent. “KYC Information” or “KYC” shall include but shall not be limited to name, address, phone / mobile number, email address, Aadhaar details (subject to applicable laws) of the Agent and documents prescribed by RBI Guidelines / Applicable Laws / Agent Institution Policy. “Platform” shall mean and include any online or offline platform, module, mobile application and / or website as provided by the Agent Institution through which Bill Payment Services are made available by the Agent Institution to the Customer through the Agent. “Privacy Policy” refers to the privacy policy of the Agent Institution available at https\\://jiopay.com/business/privacy-policy. “RBI” shall mean the Reserve Bank of India. “RBI Guidelines” shall mean the applicable guidelines, regulations, notifications and instructions issued by the RBI from time to time. “Terms” or “Terms and Conditions” shall mean terms and conditions set out in this document, any additional terms applicable to the Bill Payment Services and any additions, modifications, amendments made thereto and published on Platform and / or and / or communicated to the Agent thorough any other mode of communication from time to time."
+          },
+          {
+            "section": "Roles and Responsibilities of the Agent",
+            "text": "Entities acting as Agent on-boarded by Agent Institution or BBPOU shall have the following roles and responsibilities: Agent shall provide the customer touch points where payment of bills issued by any Biller who is a participant in the BBPS will be accepted. Agent will facilitate BBPS registration by Customer who opt to do so and also assist the registered customers to map billers to their registered id, as desired by the Customer. Agent shall have with them available the required hardware, software, system, printers, scanners and other devices, connectivity, etc. as required to carry out business of bill payments under BBPS. The Agent outlets shall make available a number of modes for making payment of bills. Agent shall adhere to all procedural guidelines and standards of BBPS at all times. Agent shall make the Customer aware about extra service charges / fees, if any, which customer may have to pay for bill payments. Such charges shall not exceed the maximum amount of Rs. 25 or any other charge as prescribed by BBPCU or BBPOU. Information about the charges, if any, payable by the customer shall be prominently displayed in the premise/website/location. Agent shall make the Customer aware about actual realization/settlement cycle for the bills to be paid. Agent shall give the customer instant confirmation of bill payments in accordance with the standards and procedural guidelines of BBPS. Agent shall prominently display at its collection points a BBPS logo or trademark as per the guidelines laid down by BBPCU to identify agent’s outlet as BBPS enabled Service Point. The Agent shall display all-important terms and conditions in clear and simple language (preferably in English, Hindi and the local language) comprehensible to the customers of various billers/users of the services offered by the Agent. These disclosures will include: All charges and fees associated with the use of bill payment facility; The customer service telephone numbers and website URL; and Details regarding complaints and grievance redressal mechanism and modalities including telephone numbers and website address. Agent shall ensure that confidentiality and privacy standards are complied with diligently. Any non-compliance of the above shall invite stiff penalties. Agent shall not use the Customers’ data collected in the course of bill payment or customer registration for other purposes without the consent of the Customer or outside the framework prescribed by its BBPOU. Suitable “opt-out” option shall be provided to Customers in all such cases. It shall be the responsibility of the Agent to verify the accuracy of the data captured from the Customer to ensure correct application of the payment. Agent shall handle the customer in case of any dispute and grievance/s sensitively. Agent shall share the receipt of successful bill payment to Customer from the Platform via any digital communication (whatsapp/email etc). However, in case these mediums are not available with the Customer then the Agent shall share a print out of the receipt with the Customer. If a customer wishes to lodge a complaint against any biller or about bill payment made by him anywhere in the BBPS, he may do so at any Agent/ BBPS outlet. The Customer shall not be levied any charges for lodging a complaint in the BBPS. Heavy penalties may be levied on Agent if they deviate from the operating guidelines. Agent may be terminated by BBPOU at the instance of BBPCU if Customer dispute percentage exceeds certain defined threshold limit as fixed by BBPCU from time to time. Terminated agents cannot become Agent of any other BBPOU till BBPCU is satisfied with corrective actions put in place by the Agent. Agent shall ensure safety and security of transactions, verification of biller information, and adherence to transaction flow standards / rules set by the BBPCU. In the event there is an error in the Agent 's connection with Agent Institution/ BBPOU or the BBPOU is unable to process the transactions for any other reason whatsoever, then the Agent shall promptly notify Agent Institution/BBPOU of the same. In case the bill payment transaction is failed then the refund will be received in the Agent Source Account (which is the VPA entered by Agent during the transaction). It shall be the responsibility of the Agent to call the customer and refund money to them for such cases. Agent agrees that RBI, BBPCU, BBPOU or Agent Institution shall have the right to conduct annual internal audits of Agents, if any, in order to comply with the BBPS operating procedures, standards and guidelines. Upon withdrawal or suspension or termination from the BBPS, the Agent should stop using the Bharat BillPay /BBPS name , logo and trademark with immediate effect. Further, the same should be removed from all locations of display with effect from the date of termination. BBPCU reserves the right to take strict legal action against any unauthorized use of Bharat BillPay/ BBPS related name, logo, trademark or any other intellectual property by an Agent after termination or suspension. Agent will inform Agent Institution immediately of any inquiry, question or issue raised by any authority including but not limited to any statutory authority or official regarding and relating to Agent, as well as expeditiously notify Agent Institution of any show causes, seizure or similar action and provide copies of any notices, memos, correspondences received from such authority. Agent shall maintain and preserve such information, records, books and documents pertaining to their activities for such period as may be specified by the Agent Institution/BBPOU from time to time and which shall be available for inspection and audit, as and when required either by Agent Institution or BBPOU or BBPCU or RBI or other competent authorities. Further, Agent shall submit periodic reports, statements, certificates and such other documents as may be required by the BBPCU and BBPOU or Agent Institution. Agent shall forthwith inform Agent Institution of any change in its constitution. Agent shall be liable and responsible to the Agent Institution for any fraudulent activity any wilful or negligent commission or omission. Any penalty, charge levied on Agent Institution by the BBPS or any other statutory authority due to the omission or commission of any act of Agent shall be borne and paid by the Agent."
+          },
+          {
+            "section": "Intellectual Property Rights",
+            "text": "Agent acknowledges that nothing contained in the Terms shall be construed as granting to the Agent, a license right to use or interest in any intellectual property, logo, trademark, commercial mark or goodwill of BBPCU and BBPS unless mutually agreed by BBPCU in writing. BBPCU shall own, and will continue to own all rights, titles and all interests in and to any inventions however embodies, know how, works in any media software, information, trade secrets, material, property or proprietory interest that is owned prior to this arrangement, or that is created ore acquired independently of its obligations."
+          },
+          {
+            "section": "Publicity",
+            "text": "Agent agrees that they shall not make public announcements or press release in relation to the subject matter of this arrangement, or its existence without prior written consent of BBPCU."
+          },
+          {
+            "section": "Indemnity",
+            "text": "Any liability arising from the provision of BBPS, solely attributable to Agent shall be borne solely and exclusively by the Agent. Agent agrees to and shall without objection at all times, keep Agent Institution and BBPS indemnified, saved and harmless from and against all demands, claims, actions suits and proceedings which may be threatened or made or brought against Agent Institution, and also against all losses, outgoings, damages, costs, charges and expenses, which Agent Institution may suffer or incur or be put to by reason or in consequence thereof or in connection therewith, including reasonable legal costs and expenses and lawyers' fees incurred by Agent Institution in connection with any claim or legal notice or legal or quasi-legal proceedings to which Agent Institution may be required to become party or to which Agent Institution may be subjected by any person including any authority constituted under the laws of any state of India or the laws of the Union of India or the laws of any other jurisdiction, by reason of breach of any of the roles and responsibilities by Agent or for failure of Agent to obtain any required statutory or regulatory approval with respect to any of the provisions hereof."
+          },
+          {
+            "section": "Termination",
+            "text": "Agent shall cease to be a member of BBPS in any of the following events: If its license is cancelled by Govt. authorities or Regulators. If it is unable to carry on business as Agent because of restrictions or restraints imposed by a judicial authority or Government. In case of insolvency or bankruptcy of the Agent. If it does not continue to wholly conform to the qualification criteria as per RBI/BBPS guidelines. In case of breach of regulatory guidelines and applicable laws. Breach of material terms and conditions of these Terms, guidelines or any other act, which may be detrimental to BBPS. If customer disputes exceed certain thresholds, as fixed in consultation with regulator from time to time, and repeated warnings issued by the BBPCU and BBPOU."
+          },
+          {
+            "section": "Consequences of Termination",
+            "text": "In the event of termination for any reason whatsoever: All rights and obligations incurred under the present Terms shall cease. Termination shall not affect any accrued rights or obligations of the parties. All obligations incurred prior to the termination shall be discharged forthwith. Upon withdrawal or suspension or termination from the BBPS, the Agent should stop using the BBPOU and BBPS name, logo, and trademark. Further, the same should be removed from all locations of display with effect from the date of termination."
+          },
+          {
+            "section": "Confidentiality",
+            "text": "Agent agrees not to disclose any confidential information to any third party and not to use any such confidential information for any purpose other than as strictly required for performance of the Terms. Agent Institution may share KYC details of the Agent Information with BBPOU, BBPCU or any other third party for the purpose of the fulfilment of the Bill Payment Services."
+          },
+          {
+            "section": "Dispute Resolution",
+            "text": "The parties shall endeavour to settle amicably by mutual discussion any disputes, differences or claims which do not fall within the purview of Payment and settlement Systems Act, 2007. Failing such amicable settlement within thirty (30) days of the dispute arising thereof, the dispute shall be settled by arbitration in accordance with the Arbitration and Conciliation Act, 1996 or any amendment thereof. The dispute shall be referred to arbitration by a sole arbitrator mutually agreed upon. Arbitration shall be held in Mumbai, India. The proceedings of arbitration shall be in the English language and the award made in pursuance thereof shall be binding on the parties. Any appeal will be subject to the exclusive jurisdiction of courts at Mumbai. The cost and expenses of arbitration proceedings will be paid as determined by the arbitral tribunal. However, the expenses incurred by each party in connection with the preparation, presentation, etc., of its proceedings as also the fees and expenses paid to the arbitrator on its behalf shall be borne by each party itself. The Parties shall continue to perform their obligations during the arbitration proceedings unless the matter is such that the work cannot possibly be continued until the decision of the arbitrator/court, as the case may be, is obtained. Notwithstanding the provisions contained in this Terms, the dispute covered by the provisions of the Payment and Settlement Systems Act, 2007 shall be resolved under the mechanism prescribed under Section 24 of the Payment and Settlement Systems Act, 2007 and rules, regulations, instructions issued thereunder."
+          },
+          {
+            "section": "Governing Law and Jurisdiction",
+            "text": "These Terms will be governed by and construed in accordance with the laws of the India without giving effect to any principles or conflicts of law. The courts in Mumbai shall have exclusive jurisdiction over any dispute arising from use of BBPS. The Agent expressly consents to the personal jurisdiction of said courts and waives any objection to such personal jurisdiction based on forums non convenience or any other basis."
+          }
+        ]
+      }
+      
+      
+
+      
+      
+
+      
+      
+      
+      
+
+    ]
+  }
+  

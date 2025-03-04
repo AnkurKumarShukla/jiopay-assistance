@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+pinecone-client
+langchain-openai
+langchain-google-genai
+langchain-mistralai
+boto3
+urllib3
