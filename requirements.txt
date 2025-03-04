@@ -1,6 +1,6 @@
 streamlit
 python-dotenv
-pinecone-client
+pinecone
 langchain-openai
 langchain-google-genai
 langchain-mistralai

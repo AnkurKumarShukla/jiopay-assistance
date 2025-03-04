@@ -111,3 +111,7 @@ if question:
 
     # Add assistant response to history
     st.session_state.messages.append({"role": "assistant", "content": llm_response})
+
+# run uvicorn main:app --reload
+
+
